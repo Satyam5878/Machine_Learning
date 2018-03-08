@@ -1,0 +1,19 @@
+
+
+
+Date 06/03/2018:
+
+Softmax Cross Entropy - https://youtu.be/-xautwSTZIY
+https://www.youtube.com/channel/UCGD8R7ct8cQfMMuUFImqDdQ
+
+
+
+Date 07/03/2018:
+
+Image Plotting - https://matplotlib.org/users/image_tutorial.html
+Color Maps - https://matplotlib.org/examples/color/colormaps_reference.html
+Convolutional Neural Network
+
+Date 08/03/2018:
+Convolutional Neural Network - https://www.youtube.com/watch?v=FTr3n7uBIuE (By Siraj)
+Openai Reptil - https://blog.openai.com/reptile/
