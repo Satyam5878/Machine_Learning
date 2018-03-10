@@ -17,3 +17,29 @@ Convolutional Neural Network
 Date 08/03/2018:
 Convolutional Neural Network - https://www.youtube.com/watch?v=FTr3n7uBIuE (By Siraj)
 Openai Reptil - https://blog.openai.com/reptile/
+
+
+Date 09/03/2018:
+
+Deeplearning4j - https://deeplearning4j.org/tutorials
+CNN - https://www.kdnuggets.com/2017/08/convolutional-neural-networks-image-recognition.html
+CNN image - https://www.kdnuggets.com/2017/08/convolutional-neural-networks-image-recognition.html
+Convolution - https://www.youtube.com/watch?v=ETdaP_bBNWc
+CNN by Siraj - https://www.youtube.com/watch?v=FTr3n7uBIuE
+tensorflow tutorial - https://github.com/Hvass-Labs/TensorFlow-Tutorials
+
+
+
+
+
+Date 10/03/2018:
+
+DeeplearningAI by ng - https://www.youtube.com/watch?v=Z91YCMvxdo0&list=PLBAGcD3siRDjBU8sKRk0zX9pMz9qeVxud
+Convolution on Image - http://machinelearninguru.com/computer_vision/basics/convolution/image_convolution_1.html
+MLTutorial - http://machinelearninguru.com/index.php
+
+
+
+
+
+
