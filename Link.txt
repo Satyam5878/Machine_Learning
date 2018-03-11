@@ -40,6 +40,19 @@ MLTutorial - http://machinelearninguru.com/index.php
 
 
 
+Date 11/03/2018:
+Examle of Linear Regression
+http://scikit-learn.org/stable/auto_examples/linear_model/plot_ols.html#sphx-glr-auto-examples-linear-model-plot-ols-py
+Collaborative Filtering and Embeddings -
+https://towardsdatascience.com/collaborative-filtering-and-embeddings-part-1-63b00b9739ce
+https://towardsdatascience.com/collaborative-filtering-and-embeddings-part-2-919da17ecefb
+https://towardsdatascience.com/clustering-and-collaborative-filtering-using-word-embeddings-56ee60f0575d
 
+R^2 Score - 
+http://scikit-learn.org/stable/modules/generated/sklearn.metrics.r2_score.html
+https://www.youtube.com/watch?v=-fgYp74SNtk
+https://www.theanalysisfactor.com/assessing-the-fit-of-regression-models/
 
+np.newaxis - 
+https://stackoverflow.com/questions/29241056/how-does-numpy-newaxis-work-and-when-to-use-it
 
