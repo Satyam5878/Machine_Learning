@@ -1,4 +1,59 @@
 
+Date-09-01-2018     Building a Classifier from Census Data:
+https://medium.com/district-data-labs/building-a-classifier-from-census-data-18f996c4d7cf
+
+
+How to learn Deep Learning in 6 months:
+https://towardsdatascience.com/how-to-learn-deep-learning-in-6-months-e45e40ef7d48
+
+Date 09-01-2018     A gentle introduction to Doc2Vec:
+https://medium.com/scaleabout/a-gentle-introduction-to-doc2vec-db3e8c0cce5e
+
+
+
+Word2Vec Tutorial - The Skip-Gram Model:
+http://mccormickml.com/2016/04/19/word2vec-tutorial-the-skip-gram-model/
+
+
+Date 21-02-2018:    Machine Learning, NLP: Text Classification using scikit-learn, python and NLTK.
+https://towardsdatascience.com/machine-learning-nlp-text-classification-using-scikit-learn-python-and-nltk-c52b92a7c73a
+
+
+
+Cheat Sheets for AI, Neural Networks, Machine Learning, Deep Learning & Big Data
+https://becominghuman.ai/cheat-sheets-for-ai-neural-networks-machine-learning-deep-learning-big-data-678c51b4b463
+
+Essential Cheat Sheets for Machine Learning and Deep Learning Engineers
+https://startupsventurecapital.com/essential-cheat-sheets-for-machine-learning-and-deep-learning-researchers-efb6a8ebd2e5
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 Date 06/03/2018:
