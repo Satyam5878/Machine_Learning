@@ -56,3 +56,30 @@ https://www.theanalysisfactor.com/assessing-the-fit-of-regression-models/
 np.newaxis - 
 https://stackoverflow.com/questions/29241056/how-does-numpy-newaxis-work-and-when-to-use-it
 
+ML - 
+https://pythonspot.com/machine-learning/
+
+Regressions and norms and Overfitting - 
+https://www.youtube.com/playlist?list=PLvcbYUQ5t0UFhdkiCojiFOygmbMU19BFq
+
+Ridge Regression - 
+https://www.youtube.com/watch?v=5asL5Eq2x0A
+
+
+Date 12/03/2018:
+
+Hilbert Matrix - https://en.wikipedia.org/wiki/Hilbert_matrix
+Online math Editor - https://www.codecogs.com/latex/eqneditor.php
+np.logspace - https://docs.scipy.org/doc/numpy/reference/generated/numpy.logspace.html
+Ridge Regression Example - http://scikit-learn.org/stable/auto_examples/linear_model/plot_ridge_path.html#sphx-glr-auto-examples-linear-model-plot-ridge-path-py
+
+
+Classification of text doc using Ridge Regression - TODO in nlp
+http://scikit-learn.org/stable/auto_examples/text/document_classification_20newsgroups.html#sphx-glr-auto-examples-text-document-classification-20newsgroups-py
+
+
+
+
+
+
+
