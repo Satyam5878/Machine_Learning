@@ -102,5 +102,18 @@ https://docs.google.com/presentation/d/16kHNtQslt-yuJ3w8GIx-eEH6t_AvFeQOchqGRFpA
 Math Behind the Tesorflow - 
 https://youtube.com/c/PipelineAI
 
+Gradient Descent - 
+https://www.youtube.com/watch?v=qPhMX0vb6D8&list=PLaXDtXvwY-oDvedS3f4HW0b4KxqpJ_imw
 
+Date 14/04/2018 
+Lasso Regression -
+https://www.youtube.com/watch?v=jbwSCwoT51M
 
+Latex syntax - 
+https://en.wikibooks.org/wiki/LaTeX/Mathematics
+
+Forbenius Norm -
+http://mathworld.wolfram.com/FrobeniusNorm.html
+
+Multitask Learning - 
+https://www.youtube.com/watch?v=UdXfsAr4Gjw
