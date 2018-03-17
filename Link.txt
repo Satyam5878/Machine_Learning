@@ -105,6 +105,7 @@ https://youtube.com/c/PipelineAI
 Gradient Descent - 
 https://www.youtube.com/watch?v=qPhMX0vb6D8&list=PLaXDtXvwY-oDvedS3f4HW0b4KxqpJ_imw
 
+
 Date 14/04/2018 
 Lasso Regression -
 https://www.youtube.com/watch?v=jbwSCwoT51M
@@ -117,3 +118,26 @@ http://mathworld.wolfram.com/FrobeniusNorm.html
 
 Multitask Learning - 
 https://www.youtube.com/watch?v=UdXfsAr4Gjw
+
+
+
+
+
+Date 18/03/2018 -
+
+Collaborative filtering - 
+https://hackernoon.com/introduction-to-recommender-system-part-1-collaborative-filtering-singular-value-decomposition-44c9659c5e75
+https://towardsdatascience.com/various-implementations-of-collaborative-filtering-100385c6dfe0
+
+Recommednder System
+http://technocalifornia.blogspot.in/2014/08/introduction-to-recommender-systems-4.html?m=1&from=singlemessage&isappinstalled=0
+
+latent factor model-
+http://www.ideal.ece.utexas.edu/seminar/LatentFactorModels.pdf
+https://www.slideshare.net/sscdotopen/latent-factor-models-for-collaborative-filtering
+https://www.youtube.com/watch?v=E8aMcwmqsTg&list=PLLssT5z_DsK9JDLcT8T62VtzwyW9LNepV&index=55
+
+
+Mining Massive Datasets - Stanford University -
+https://youtu.be/xoA5v9AO7S0?list=PLLssT5z_DsK9JDLcT8T62VtzwyW9LNepV
+
