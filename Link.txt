@@ -123,6 +123,21 @@ https://www.youtube.com/watch?v=UdXfsAr4Gjw
 
 
 
+
+Date 15/03/2018:
+Gradient Descent -
+https://www.youtube.com/watch?v=umAeJ7LMCfU
+https://www.youtube.com/watch?v=XdM6ER7zTLk
+
+
+
+Data Mining - 
+http://www.charuaggarwal.net/Data-Mining.pdf
+
+Collective Intelligence - 
+http://forum.myquant.cn/uploads/default/original/1X/2065c4d1964e26331996cfa23d12acd185e3d7b6.pdf
+
+
 Date 18/03/2018 -
 
 Collaborative filtering - 
