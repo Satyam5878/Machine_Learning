@@ -1,0 +1,4 @@
+Date 18/03/2018 - 
+
+https://towardsdatascience.com/deploy-tensorflow-models-9813b5a705d5
+https://towardsdatascience.com/how-to-deploy-machine-learning-models-with-tensorflow-part-1-make-your-model-ready-for-serving-776a14ec3198
