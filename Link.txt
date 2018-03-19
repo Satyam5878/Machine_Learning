@@ -156,3 +156,32 @@ https://www.youtube.com/watch?v=E8aMcwmqsTg&list=PLLssT5z_DsK9JDLcT8T62VtzwyW9LN
 Mining Massive Datasets - Stanford University -
 https://youtu.be/xoA5v9AO7S0?list=PLLssT5z_DsK9JDLcT8T62VtzwyW9LNepV
 
+
+
+Date 19/03/2018 -
+
+Standard Scalar -
+http://scikit-learn.org/stable/modules/generated/sklearn.preprocessing.StandardScaler.html#sklearn.preprocessing.StandardScaler
+
+
+SGD -
+https://hal.inria.fr/hal-00860051/document
+https://arxiv.org/abs/1407.0202
+
+
+
+LibLinear Library -
+https://www.csie.ntu.edu.tw/~cjlin/papers/liblinear.pdf
+
+Maxent Dual -
+https://www.csie.ntu.edu.tw/~cjlin/papers/maxent_dual.pdf
+
+Pattern Recognition*** - 
+http://users.isr.ist.utl.pt/~wurmd/Livros/school/Bishop%20-%20Pattern%20Recognition%20And%20Machine%20Learning%20-%20Springer%20%202006.pdf
+
+
+
+Deep Learning -
+https://www.youtube.com/watch?v=edIMMTL2jlw&list=PLVBorYCcu-xX3Ppjb_sqBd_Xf6GqagQyl
+
+
