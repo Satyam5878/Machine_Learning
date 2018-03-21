@@ -185,3 +185,34 @@ Deep Learning -
 https://www.youtube.com/watch?v=edIMMTL2jlw&list=PLVBorYCcu-xX3Ppjb_sqBd_Xf6GqagQyl
 
 
+Date 21/03/2018 - 
+Logistic Regression - Examples
+
+http://scikit-learn.org/stable/auto_examples/linear_model/plot_logistic_l1_l2_sparsity.html#sphx-glr-auto-examples-linear-model-plot-logistic-l1-l2-sparsity-py
+http://scikit-learn.org/stable/auto_examples/linear_model/plot_logistic_path.html#sphx-glr-auto-examples-linear-model-plot-logistic-path-py
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
