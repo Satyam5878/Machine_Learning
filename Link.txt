@@ -194,11 +194,49 @@ http://scikit-learn.org/stable/modules/generated/sklearn.svm.l1_min_c.html#sklea
 
 
 
+Date 22/03/2018 - 
+
+Related to NLP -
+Lec 1, Extra readings
+http://cs231n.github.io/
+
+
+Date 02/04/2018:
+DeepLearning Syllabus -
+https://bcourses.berkeley.edu/courses/1413088/assignments/syllabus
+https://bcourses.berkeley.edu/courses/1413088/assignments/syllabus
+
+Pandas - 
+https://stackoverflow.com/questions/18366797/pandas-read-csv-how-to-skip-comment-lines/31931208
+https://pandas.pydata.org/pandas-docs/stable/generated/pandas.Series.dt.strftime.html
+https://stackoverflow.com/questions/17134716/convert-dataframe-column-type-from-string-to-datetime
+https://pandas.pydata.org/pandas-docs/stable/merging.html
+https://stackoverflow.com/questions/36104500/pandas-filtering-and-comparing-dates
+https://pandas.pydata.org/pandas-docs/stable/generated/pandas.Timestamp.html
+https://stackoverflow.com/questions/19377969/combine-two-columns-of-text-in-dataframe-in-pandas-python
+https://stackoverflow.com/questions/17951820/convert-hhmmss-to-minutes-using-python-pandas
+https://stackoverflow.com/questions/33000660/converting-pandas-timestamp-to-just-the-time-looking-for-something-faster-than
+https://pymotw.com/2/datetime/
+https://stackoverflow.com/questions/16923281/pandas-writing-dataframe-to-csv-file
+
+
+Date 03/04/2018:
+Least Square Regression Using SVD - 
+http://www.math.uconn.edu/~leykekhman/courses/MATH3795/Lectures/Lecture_9_Linear_least_squares_SVD.pdf
+http://www.uio.no/studier/emner/matnat/ifi/INF-MAT3350/h07/undervisningsmateriale/chap12slides.pdf
+
+Why Does SVD Provide the Least Squares and Least Norm Solution to Ax=b?
+https://math.stackexchange.com/questions/974193/why-does-svd-provide-the-least-squares-and-least-norm-solution-to-a-x-b
 
 
 
+Date 03/04/2018:
 
-
+Deeplearning -
+http://deeplearning.net/tutorial/
+https://www.analyticsvidhya.com/blog/2016/08/deep-learning-path/
+https://www.analyticsvidhya.com/blog/2016/12/21-deep-learning-videos-tutorials-courses-on-youtube-from-2016/
+https://www.kdnuggets.com/2016/01/seven-steps-deep-learning.html
 
 
 
