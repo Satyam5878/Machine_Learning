@@ -240,12 +240,66 @@ https://www.kdnuggets.com/2016/01/seven-steps-deep-learning.html
 
 
 
+Date 15/04/2018:
+
+Blogs for AI and ML
+
+http://homeai.wpengine.com/directory/algorithms/
+
+KDNuggets - https://www.kdnuggets.com
+ML Mastery - 
+
+
+RoadMap for May:
+ML from scikitLearn
+
+DL from Andrew ng 
+
+Tensorflow from youtube
+
+
+
+
+
+Date 18/04/2018:
+_______________________________________________________
+NLP        |
+___________|
+Convolutional NN for visual Recognition(Stanford) - 
+http://cs231n.stanford.edu/index.html
+http://cs231n.github.io/
+https://github.com/cs231n/cs231n.github.io
+
+stanford nlp with deep learning - 
 
 
 
 
 
 
+
+NLP With DeepLearning:(Stanford)
+Lec 1:
+    
+Prerequisite:Linear algebra, Probablity, convex optimization, SGD
+Linear algebra: 
+    
+Norm: L2,L1, Forbenius norm
+Linearly Depandent and independent: column rank, row rank, full rank
+
+
+_____________________________________
+DeepLearning - 
+https://www.deeplearningbook.org/front_matter.pdf
+https://github.com/janishar/mit-deep-learning-book-pdf/blob/master/complete-book-pdf/deeplearningbook.pdf
+
+
+
+
+
+Date 20/04/2018:
+
+http://mathworld.wolfram.com
 
 
 

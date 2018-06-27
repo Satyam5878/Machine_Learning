@@ -1,0 +1,106 @@
+Date 17/05/2018:
+Intro To python for Data Scrince: https://www.youtube.com/watch?v=-Rf4fZDQ0yw&list=PLjgj6kdf_snaw8QnlhK5f3DzFDFKDU5f4
+
+Store and Manipulte data
+
+Numpy array:
+    Subsetting, 
+    types of numpy array: 1-d, 2-d, n-d
+    np_arr.shape 
+    
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Date 18/05/2018:
+
+Slicing(:), subset of numpy array
+
+
+Data analysis:
+    Getting to data
+    
+    
+    
+Numpy function:
+    min,max,random,mean,median,corrcoeff,std,sum,sort
+    round, random.normal
+    column_stack: to stack two column
+    np.mean,np.median,np.std,
+Types of Plot: Bee Swarm Plot
+               ecdf plot(empirical cumulative distribution function)
+               Histogram
+ 
+ 
+ 
+Matplotlib plotting function:
+    plot
+    scatter
+    
+               
+http://www.statisticshowto.com/
+Discrete and Continuous distributuion
+
+
+Cumulative distribution function
+Binning bias: same data can be interpreted differently based on choice of binning
+
+
+Different Plots:
+    Bee Swarm Plot: 
+        requires x(kind of cateory) and y
+        all data are displayed
+    Histogram:
+        requires no. of bins
+        binning bias: same data may be interpreted differently depending on the choice of bin
+        plt.hist = return three arrays
+    Bubble Chart:
+    
+
+Date 22/05/2018:
+
+Generating summarizing statistics of data:
+    mean, median, variance, standard deviation
+    it provides sanity chaek of your data
+
+
+Visualization, datastructures, control structures
+
+Data Visualization:
+    Importnt in data analysis
+        Explore data
+        Report Insights
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
